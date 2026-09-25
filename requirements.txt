@@ -1,0 +1,24 @@
+# LangChain core and integrations
+langchain
+langchain-core
+langchain-classic
+langchain-openai
+langchain-anthropic
+langchain-google-genai
+langchain-huggingface
+
+# Model provider SDKs
+openai
+google-generativeai
+
+# Hugging Face integration
+transformers
+huggingface-hub
+
+# Environment variables and machine learning utilities
+python-dotenv
+scikit-learn
+
+streamlit
+pydantic
+grandalf
