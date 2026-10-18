@@ -3,6 +3,7 @@ langchain
 langchain-core
 langchain-classic
 langchain-community
+langchain-experimental
 langchain-openai
 langchain-anthropic
 langchain-google-genai
