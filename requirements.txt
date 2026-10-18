@@ -8,6 +8,7 @@ langchain-openai
 langchain-anthropic
 langchain-google-genai
 langchain-huggingface
+chromadb
 
 # Model provider SDKs
 openai
